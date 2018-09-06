@@ -1,0 +1,3 @@
+The code is for how to achieve thread serialization using semaphores wait and post methods.
+
+You can also achieve the same using pthread_cond_wait() and pthread_cond_signal() methods. 
