@@ -8,6 +8,7 @@
 #include<unistd.h>
 #include<sys/fcntl.h>
 #include<sys/stat.h>
+
 void *thread1(void *ptr);
 void *thread2(void *ptr);
 void *thread3(void *ptr);
